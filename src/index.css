@@ -1,0 +1,27 @@
+#root,
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  background-color: #f9f7f7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.wrapper {
+  margin: 50px 10px;
+}
+
+.name {
+  color: #fff;
+  font-weight: bold;
+}
